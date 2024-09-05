@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/assets_audio_player-3.0.6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/assets_audio_player_web-3.0.6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.6.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/connectivity_plus-4.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/device_info_plus-9.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core-2.15.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_core_web-2.6.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_messaging-14.6.5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_messaging_web-3.5.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_storage-11.2.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/firebase_storage_web-3.6.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_local_notifications-14.1.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/google_mobile_ads-3.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/in_app_review-2.0.6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/package_info_plus-4.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider-2.0.15/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_android-2.0.27/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.11/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/share_plus-7.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences-2.1.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_android-2.1.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.2.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.2.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_web-2.1.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.2.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/sqflite-2.2.8+4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/unique_identifier-0.3.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher-6.1.11/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_android-6.0.35/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_ios-6.1.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_linux-3.0.5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_web-2.0.17/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_windows-3.0.6/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/vibration-1.7.7/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter-4.2.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_android-3.7.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.4.4/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

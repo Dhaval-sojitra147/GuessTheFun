@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149486477367",
+    "project_id": "guess-the-celebrities-14c79",
+    "storage_bucket": "guess-the-celebrities-14c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149486477367:android:15078aa65ccc49fb4e1fb2",
+        "android_client_info": {
+          "package_name": "com.celebquizwho.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClTbfc5pv9V1AJIRtRfKIgg07J__K-x4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
